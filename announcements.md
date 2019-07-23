@@ -1,4 +1,4 @@
-[Welcome](https://www.example.com) | [Announcements](https://www.example.com) | [Cohort ](https://www.example.com) | [Summer Intensive 2019](https://www.example.com) | [Staff](https://www.example.com) | [Resources](https://www.example.com)
+[Welcome](https://swatlibrary.github.io/index.md) | [Announcements](https://swatlibrary.github.io/announcements.md) | [Cohort ](https://swatlibrary.github.io/cohort.md) | [Summer Intensive 2019](https://swatlibrary.github.io/summer19.md) | [Staff](https://swatlibrary.github.io/staff.md) | [Resources](https://swatlibrary.github.io/resources.md)
 
 ---
 
