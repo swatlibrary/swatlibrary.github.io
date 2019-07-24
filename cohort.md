@@ -4,4 +4,14 @@
 
 # Cohort
 
+### Jissel Becerra Reyes, '20 | she/her, they/them
+### Gabe Hearn-Desautels, '20 | he/him
+### Maya Henry, '20 | they/them
+### Naja Smith, '20 | she/her
+
+### Julia Botkin, '21 | she/her
+### Vitor Dos Anjos, '21 | he/him
+
+### Sonia Linares, '22 | she/her
+### Ayleah Johnson, '22 |she/her
 ---
